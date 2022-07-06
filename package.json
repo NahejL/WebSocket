@@ -1,0 +1,12 @@
+{
+  "name": "WebSocket",
+  "version": "1.0.0",
+  "description": "implementation of WebSocket upgrade protocole and events",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.mjs",
+    "test": "node test.mjs"
+  },
+  "author": "MEEEE",
+  "license": "ISC"
+}
